@@ -1,0 +1,15 @@
+{
+  "ctpa": {
+    "filling_defect_present": true,
+    "main_pulmonary_artery_involvement": false,
+    "rv_lv_ratio": 1.1,
+    "clot_burden_score": 18.0
+  },
+  "ehr": {
+    "systolic_bp": 110,
+    "heart_rate": 118,
+    "oxygen_saturation": 91.0,
+    "troponin_positive": true,
+    "bnp_positive": false
+  }
+}
